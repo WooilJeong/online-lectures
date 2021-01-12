@@ -42,3 +42,18 @@ var foo = true; // Boolean
 ## Symbol 타입
 - 유일하고 변경 불가능한 기본값.
 
+## CSS 선택자
+```html
+<style>
+    tag{
+        color: yellow;
+    }
+    .class{
+        color: red;
+    }
+    #id{
+        color: blue;
+    }
+</style>
+```
+
